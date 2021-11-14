@@ -1,0 +1,31 @@
+{
+  "name": "semantic-release-docker-test",
+  "description": "",
+  "version": "0.0.0",
+  "private": true,
+  "license": "MIT",
+  "files": [
+    "build"
+  ],
+  "author": "TED Vortex <ted.vortex@gmail.com>",
+  "homepage": "https://github.com/0-vortex/semantic-release-docker-test#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/0-vortex/semantic-release-docker-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/0-vortex/semantic-release-docker-test/issues"
+  },
+  "engines": {
+    "node": ">=14",
+    "npm": ">=7"
+  },
+  "scripts": {
+    "preinstall": "npx @open-sauced/check-engines",
+    "push": "npx @open-sauced/conventional-commit"
+  },
+  "devDependencies": {
+    "@open-sauced/check-engines": "^1.2.0",
+    "@open-sauced/conventional-commit": "^1.0.1"
+  }
+}
