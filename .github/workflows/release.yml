@@ -9,9 +9,12 @@ jobs:
   release:
     runs-on: ubuntu-latest
     steps:
-      - name: Source checkout
-        uses: actions/checkout@v1
-      - name: Create Version
+      - name: "☁️ checkout repository"
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: "🚀 release"
         uses: caos/semantic-release@v1.1.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
