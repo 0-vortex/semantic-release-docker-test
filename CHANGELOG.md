@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.0.1...v1.1.0) (2021-11-17)
+
+
+### Features
+
+* add better contributions referral system ([483b37f](https://github.com/0-vortex/semantic-release-docker-test/commit/483b37fdd7a0ca83576a0d93c24271c7974a80a7))
+
 ## [1.0.1](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.0.0...v1.0.1) (2021-11-17)
 
 
