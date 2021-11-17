@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.0.0...v1.0.1) (2021-11-17)
+
+
+### Bug Fixes
+
+* correct version tag prefix ([cc22668](https://github.com/0-vortex/semantic-release-docker-test/commit/cc2266860ab4777b6ca87e9c4a6be6c87236e1ac))
+
 # 1.0.0 (2021-11-17)
 
 
