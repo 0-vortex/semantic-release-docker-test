@@ -1,3 +1,20 @@
+## [1.2.0](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.1.0...v1.2.0) (2021-11-18)
+
+
+### Features
+
+* use open sauced semantic configuration without installing ([6e5f38c](https://github.com/0-vortex/semantic-release-docker-test/commit/6e5f38c1a96a3d182363416a49d97a0f69031075))
+
+
+### Bug Fixes
+
+* disable docker build ([a208c3e](https://github.com/0-vortex/semantic-release-docker-test/commit/a208c3e7f5a58d51fd20a7c5ed23d88d7a30b2fe))
+
+
+### Tests
+
+* add bugfix update ([d17bf96](https://github.com/0-vortex/semantic-release-docker-test/commit/d17bf96b783b45a6d286cd92f0bac6c5a9d52765))
+
 # [1.1.0](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.0.1...v1.1.0) (2021-11-17)
 
 
