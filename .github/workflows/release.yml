@@ -16,7 +16,7 @@ jobs:
 
       - name: "🚀 release"
         id: semantic-release
-        uses: 0-vortex/open-sauced-semantic-config-test@v3.2.0
+        uses: 0-vortex/open-sauced-semantic-config-test@v3.2.1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
         env:
