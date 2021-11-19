@@ -16,7 +16,7 @@ jobs:
 
       - name: "🚀 release"
         id: semantic-release
-        uses: 0-vortex/open-sauced-semantic-config-test@v3.3.1
+        uses: docker://ghcr.io/0-vortex/open-sauced-semantic-config-test@v3.3.1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
         env:
@@ -29,4 +29,3 @@ jobs:
       - name: 'test'
         run: |
           echo $SEMVER_VERSION
-          echo ${{ steps.semantic-release.outputs.SEMVER_VERSION }}
