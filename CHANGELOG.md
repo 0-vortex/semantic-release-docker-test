@@ -1,3 +1,10 @@
+### [1.2.1](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.2.0...v1.2.1) (2021-11-19)
+
+
+### Tests
+
+* upgrade to exec plugin ([4dc5195](https://github.com/0-vortex/semantic-release-docker-test/commit/4dc519581b1b6fe0d862a343acc3846776f2b0bc))
+
 ## [1.2.0](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.1.0...v1.2.0) (2021-11-18)
 
 
