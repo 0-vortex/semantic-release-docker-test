@@ -16,7 +16,7 @@ jobs:
 
       - name: "🚀 release"
         id: semantic-release
-        uses: 0-vortex/open-sauced-semantic-config-test@v3.2.1
+        uses: 0-vortex/open-sauced-semantic-config-test@v3.3.1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
         env:
@@ -26,10 +26,7 @@ jobs:
           GIT_COMMITTER_NAME: ${{ secrets.GIT_COMMITTER_NAME }}
           GIT_COMMITTER_EMAIL: ${{ secrets.GIT_COMMITTER_EMAIL }}
 
-      - if: steps.semantic-release.outputs.released-version-number != ''
-        env:
-          VERSION_NUMBER: ${{ steps.semantic-release.outputs.released-version-number }}
-          VERSION_TAG: ${{ steps.semantic-release.outputs.released-version }}
+      - name: 'test'
         run: |
-          echo $VERSION_TAG
-          echo $VERION_NUMBER
+          echo $SEMVER_VERSION
+          echo ${{ steps.semantic-release.outputs.SEMVER_VERSION }}
