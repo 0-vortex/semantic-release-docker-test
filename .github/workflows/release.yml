@@ -16,7 +16,7 @@ jobs:
 
       - name: "🚀 release"
         id: semantic-release
-        uses: docker://ghcr.io/0-vortex/open-sauced-semantic-config-test@v3.3.1
+        uses: docker://ghcr.io/0-vortex/open-sauced-semantic-config-test@v3.4.2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
         env:
