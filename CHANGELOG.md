@@ -1,3 +1,26 @@
+## [1.3.0](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.2.1...v1.3.0) (2021-11-20)
+
+
+### Bug Fixes
+
+* correct github action docker tag ([2027ebb](https://github.com/0-vortex/semantic-release-docker-test/commit/2027ebb97204f776a9c5ad3a244b22a4c359ae0e))
+
+
+### Tests
+
+* improve docker image build caching ([bf3e580](https://github.com/0-vortex/semantic-release-docker-test/commit/bf3e580cf3d62e5b380d3447788fc4daec3e048c))
+* test docker cached action ([11481bf](https://github.com/0-vortex/semantic-release-docker-test/commit/11481bfff567b32f41ed644dc1fd5ba6bacc59d0))
+
+
+### Code Refactoring
+
+* relearn how docker tags work ([c09288d](https://github.com/0-vortex/semantic-release-docker-test/commit/c09288d3d47971eff055225bee49d158c9724207))
+
+
+### Build System
+
+* add correct environment variable ([c4f6189](https://github.com/0-vortex/semantic-release-docker-test/commit/c4f61892d50747b41b957c11e906188b2c64d682))
+
 ### [1.2.1](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.2.0...v1.2.1) (2021-11-19)
 
 
