@@ -1,3 +1,10 @@
+### [1.3.3](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.2...v1.3.3) (2021-11-21)
+
+
+### Tests
+
+* use open sauced defaults ([672d401](https://github.com/0-vortex/semantic-release-docker-test/commit/672d40119fbf1b11ddc6e61e28107c22713b604c))
+
 ### [1.3.2](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.1...v1.3.2) (2021-11-21)
 
 
