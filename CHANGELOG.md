@@ -1,3 +1,10 @@
+### [1.3.4](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.3...v1.3.4) (2021-11-21)
+
+
+### Tests
+
+* add pr ready build ([1e96ab5](https://github.com/0-vortex/semantic-release-docker-test/commit/1e96ab52e561a1af5935af74d80d8aa19b5dc93a))
+
 ### [1.3.3](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.2...v1.3.3) (2021-11-21)
 
 
