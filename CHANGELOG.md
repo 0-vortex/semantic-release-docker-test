@@ -1,3 +1,10 @@
+### [1.3.2](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.1...v1.3.2) (2021-11-21)
+
+
+### Tests
+
+* use different environment variables ([822580d](https://github.com/0-vortex/semantic-release-docker-test/commit/822580d6642ce5285c7c143002ace28c217d49e9))
+
 ### [1.3.1](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.0...v1.3.1) (2021-11-21)
 
 
