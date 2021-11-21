@@ -1,3 +1,13 @@
+### [1.3.1](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.0...v1.3.1) (2021-11-21)
+
+
+### Tests
+
+* add new entrypoint and bake in default configuration ([b9bd4aa](https://github.com/0-vortex/semantic-release-docker-test/commit/b9bd4aad1357d2bbb0458503d7f5960e18e3aa3e))
+* make it work without config file ([f50fd55](https://github.com/0-vortex/semantic-release-docker-test/commit/f50fd5596ffa0adea6ce2691d01c35e4faac10fb))
+* this should definitely work ([bc1f557](https://github.com/0-vortex/semantic-release-docker-test/commit/bc1f557c1fd0272011569c308afe412d5c63f8d0))
+* use different entrypoint version ([ef00412](https://github.com/0-vortex/semantic-release-docker-test/commit/ef004123c0f803b6d1b990b45cba1d27b8e4549b))
+
 ## [1.3.0](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.2.1...v1.3.0) (2021-11-20)
 
 
