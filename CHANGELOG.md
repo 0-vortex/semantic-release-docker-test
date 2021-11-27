@@ -1,3 +1,10 @@
+### [1.3.13](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.12...v1.3.13) (2021-11-27)
+
+
+### Continuous Integration
+
+* relog variables ([d3b365a](https://github.com/0-vortex/semantic-release-docker-test/commit/d3b365a10f4fcd326bd7617145cfdaa39d0b439e))
+
 ### [1.3.12](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.11...v1.3.12) (2021-11-27)
 
 
