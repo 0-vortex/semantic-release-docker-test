@@ -1,3 +1,10 @@
+### [1.3.5](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.4...v1.3.5) (2021-11-27)
+
+
+### Tests
+
+* check out the new channel releases in github ([0957ad4](https://github.com/0-vortex/semantic-release-docker-test/commit/0957ad42d1172fb6403b25cc3f0b3fa24678fef9))
+
 ### [1.3.4](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.3...v1.3.4) (2021-11-21)
 
 
