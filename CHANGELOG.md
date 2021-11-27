@@ -1,3 +1,10 @@
+### [1.3.6](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.5...v1.3.6) (2021-11-27)
+
+
+### Tests
+
+* test running the node action again ([73f7b16](https://github.com/0-vortex/semantic-release-docker-test/commit/73f7b16330feef6336031f5b26abfd2317c78224))
+
 ### [1.3.5](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.4...v1.3.5) (2021-11-27)
 
 
