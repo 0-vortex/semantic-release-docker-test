@@ -1,3 +1,15 @@
+### [1.3.10](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.9...v1.3.10) (2021-11-27)
+
+
+### Tests
+
+* test less hacky global path for release configuration ([c0c2af3](https://github.com/0-vortex/semantic-release-docker-test/commit/c0c2af3cb78225f7e2b55cbed84c5292b3606e99))
+
+
+### Code Refactoring
+
+* revert to global path ([45a4ebb](https://github.com/0-vortex/semantic-release-docker-test/commit/45a4ebb8c182edbb769bfeae8b5ac402df5a6683))
+
 ### [1.3.9](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.8...v1.3.9) (2021-11-27)
 
 
