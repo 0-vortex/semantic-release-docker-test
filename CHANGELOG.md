@@ -1,3 +1,10 @@
+### [1.3.11](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.10...v1.3.11) (2021-11-27)
+
+
+### Performance Improvements
+
+* test no shell version ([e21227c](https://github.com/0-vortex/semantic-release-docker-test/commit/e21227ceb431d6b6b7a6ea504d34ac279c9aaefb))
+
 ### [1.3.10](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.9...v1.3.10) (2021-11-27)
 
 
