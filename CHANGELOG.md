@@ -1,3 +1,11 @@
+### [1.3.7](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.6...v1.3.7) (2021-11-27)
+
+
+### Tests
+
+* use new docker trace mechanism ([5534c61](https://github.com/0-vortex/semantic-release-docker-test/commit/5534c61551cb85c08f025af404e60fb9db2bb7ea))
+* use unpublished action ([8cfb57f](https://github.com/0-vortex/semantic-release-docker-test/commit/8cfb57f68db02377cd2303701d91ee38f5e3c061))
+
 ### [1.3.6](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.5...v1.3.6) (2021-11-27)
 
 
