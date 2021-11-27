@@ -1,3 +1,10 @@
+### [1.3.12](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.11...v1.3.12) (2021-11-27)
+
+
+### Tests
+
+* test auto docker ghcr build and environment variables removal ([1b7fa42](https://github.com/0-vortex/semantic-release-docker-test/commit/1b7fa4207ebcfabda4c3cb63d767a58fb7fd002e))
+
 ### [1.3.11](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.10...v1.3.11) (2021-11-27)
 
 
