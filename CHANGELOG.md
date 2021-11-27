@@ -1,3 +1,10 @@
+### [1.3.15](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.14...v1.3.15) (2021-11-27)
+
+
+### Tests
+
+* use the other path now ([74af538](https://github.com/0-vortex/semantic-release-docker-test/commit/74af5389c88fc600267bf1c66411c7dd0ecb8693))
+
 ### [1.3.14](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.13...v1.3.14) (2021-11-27)
 
 
