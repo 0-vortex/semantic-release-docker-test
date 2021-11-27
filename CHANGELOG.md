@@ -1,3 +1,16 @@
+### [1.3.14](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.13...v1.3.14) (2021-11-27)
+
+
+### Bug Fixes
+
+* correct github actions namespace in release demo ([a20d19e](https://github.com/0-vortex/semantic-release-docker-test/commit/a20d19e64dddd319b1a167c475760b05d7522f4e))
+
+
+### Tests
+
+* test fully dockerized build ([0cb067e](https://github.com/0-vortex/semantic-release-docker-test/commit/0cb067e4dc1e897a1dd7a1cde7e1a09bc41fcedb))
+* walk through both scenarios at a time ([9558139](https://github.com/0-vortex/semantic-release-docker-test/commit/9558139b17741991385c9feb64b1ecf8ea2838fe))
+
 ### [1.3.13](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.12...v1.3.13) (2021-11-27)
 
 
