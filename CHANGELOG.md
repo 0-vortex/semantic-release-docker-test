@@ -1,3 +1,19 @@
+### [1.3.8](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.7...v1.3.8) (2021-11-27)
+
+
+### Performance Improvements
+
+* remove all variables ([ade88f6](https://github.com/0-vortex/semantic-release-docker-test/commit/ade88f631431ce8bd59409cb37abf47fb117098b))
+
+
+### Tests
+
+* check cwd in child ([e74a564](https://github.com/0-vortex/semantic-release-docker-test/commit/e74a564171aef3be4d9ef0722ed06a7fa0578461))
+* fallback version denial ([dcd62e8](https://github.com/0-vortex/semantic-release-docker-test/commit/dcd62e8ea77790d58c400b7c3971d63d1c776be0))
+* new improved cwd display ([2c6cd86](https://github.com/0-vortex/semantic-release-docker-test/commit/2c6cd8663b513db8314b5420fc1847456c02b701))
+* try building from base action and tag ([965d8e8](https://github.com/0-vortex/semantic-release-docker-test/commit/965d8e820c664fe17fcb7f868116ca698a9f55e2))
+* use dockerExists value for once ([b623e79](https://github.com/0-vortex/semantic-release-docker-test/commit/b623e79f5ff0a2182a4f7c7ebc03ec76e6091297))
+
 ### [1.3.7](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.6...v1.3.7) (2021-11-27)
 
 
