@@ -1,3 +1,22 @@
+### [1.3.9](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.8...v1.3.9) (2021-11-27)
+
+
+### Continuous Integration
+
+* should work now ([f947090](https://github.com/0-vortex/semantic-release-docker-test/commit/f94709044a64668adde51f5a1b3921276361cbb3))
+
+
+### Tests
+
+* test new docker global path ([c710b2c](https://github.com/0-vortex/semantic-release-docker-test/commit/c710b2c6cfb9bfe93e5a596450f5c49dd6a5272f))
+* try building better docker containers ([eb3cc07](https://github.com/0-vortex/semantic-release-docker-test/commit/eb3cc07f557fbbf1298ad79da9869453f7517c28))
+
+
+### Code Refactoring
+
+* judge whether this time it will work ([bee97f6](https://github.com/0-vortex/semantic-release-docker-test/commit/bee97f65912b7f47d6da6b73bc2aa1b7132f6cfa))
+* try out something stupid now ([f5b0d93](https://github.com/0-vortex/semantic-release-docker-test/commit/f5b0d934571fbbbbcb491a56c6cdf2dc83f49fcb))
+
 ### [1.3.8](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.7...v1.3.8) (2021-11-27)
 
 
