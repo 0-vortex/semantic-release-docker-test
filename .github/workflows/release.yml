@@ -32,7 +32,7 @@ jobs:
 
       - name: "🚀 release"
         id: semantic-release
-        uses: 0-vortex/open-sauced-semantic-config-test:3.18.0
+        uses: 0-vortex/open-sauced-semantic-config-test@v3.18.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
