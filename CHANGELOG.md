@@ -1,3 +1,17 @@
+### [1.3.16](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.15...v1.3.16) (2021-12-01)
+
+
+### Bug Fixes
+
+* back to the future v2 ([06cadad](https://github.com/0-vortex/semantic-release-docker-test/commit/06cadad6c8a8d87715de617d4e23169ae95e0173))
+* test spoon feeding variables to action ([764c188](https://github.com/0-vortex/semantic-release-docker-test/commit/764c188cef89f48c78f67d39b0f7c79144e9c290))
+
+
+### Tests
+
+* test docker ghcr login again ([caf014c](https://github.com/0-vortex/semantic-release-docker-test/commit/caf014cdadd1c355e911bf29bd1592d44aab1b30))
+* use eclass docker again ([9b1e25e](https://github.com/0-vortex/semantic-release-docker-test/commit/9b1e25e4d04c91a7340708ef4afa0a04f49a1873))
+
 ### [1.3.15](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.14...v1.3.15) (2021-11-27)
 
 
