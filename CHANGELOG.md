@@ -1,3 +1,10 @@
+### [1.3.17](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.16...v1.3.17) (2021-12-01)
+
+
+### Bug Fixes
+
+* now this one should work ([41c417a](https://github.com/0-vortex/semantic-release-docker-test/commit/41c417abf6635da46e27f7db226867de9232ef2b))
+
 ### [1.3.16](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.15...v1.3.16) (2021-12-01)
 
 
