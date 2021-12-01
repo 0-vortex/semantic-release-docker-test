@@ -1,3 +1,10 @@
+## [1.4.0](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.17...v1.4.0) (2021-12-01)
+
+
+### Features
+
+* working version of docker image push ([b807167](https://github.com/0-vortex/semantic-release-docker-test/commit/b8071677efdd5118c4a94c8a1808fa86d4037c25))
+
 ### [1.3.17](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.16...v1.3.17) (2021-12-01)
 
 
