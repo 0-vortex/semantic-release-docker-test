@@ -1,3 +1,17 @@
+# 📦 0-vortex/semantic-release-docker-test changelog
+
+[![conventional commits](https://img.shields.io/badge/conventional%20commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+[![semantic versioning](https://img.shields.io/badge/semantic%20versioning-2.0.0-green.svg)](https://semver.org)
+
+> All notable changes to this project will be documented in this file
+
+## [1.6.0](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.5.0...v1.6.0) (2021-12-02)
+
+
+### Features
+
+* add better changelog generation test ([fdac928](https://github.com/0-vortex/semantic-release-docker-test/commit/fdac92806204c464a4c4e2c5d9dea35555d01ae6))
+
 ## [1.5.0](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.4.0...v1.5.0) (2021-12-02)
 
 
