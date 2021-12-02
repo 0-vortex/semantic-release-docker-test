@@ -1,3 +1,10 @@
+## [1.5.0](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.4.0...v1.5.0) (2021-12-02)
+
+
+### Build System
+
+* test license update function ([a37a055](https://github.com/0-vortex/semantic-release-docker-test/commit/a37a0552c886118739611df9b8d8c296a7cb1d46))
+
 ## [1.4.0](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.3.17...v1.4.0) (2021-12-01)
 
 
