@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.6.1](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.6.0...v1.6.1) (2021-12-04)
+
+
+### Tests
+
+* use official open-sauced/semantic-release-conventional-config ghcr container ([5caced2](https://github.com/0-vortex/semantic-release-docker-test/commit/5caced2903b86c826edd86a4c60d6dd636c074fe))
+
 ## [1.6.0](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.5.0...v1.6.0) (2021-12-02)
 
 
