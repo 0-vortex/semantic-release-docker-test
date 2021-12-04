@@ -51,8 +51,8 @@ jobs:
   release:
     environment:
       name: production
-      url: https://github.com/${{ github.repository }}/releases/tag/${{ env.RELEASE_TAG }}
-#      url: https://github.com/${{ github.repository }}/releases/tag/${{ steps.semantic-release.outputs.release-tag }}
+#      url: https://github.com/${{ github.repository }}/releases/tag/${{ env.RELEASE_TAG }}
+      url: https://github.com/${{ github.repository }}/releases/tag/${{ steps.semantic-release.outputs.release-tag }}
     name: Semantic release
     needs:
       - docker
@@ -76,8 +76,8 @@ jobs:
 
       - name: "🚀 release"
         id: semantic-release
-        uses: docker://ghcr.io/open-sauced/semantic-release-conventional-config:3.0.0
-#        uses: open-sauced/semantic-release-conventional-config@v3.0.0
+#        uses: docker://ghcr.io/open-sauced/semantic-release-conventional-config:3.0.0
+        uses: open-sauced/semantic-release-conventional-config@v3
         env:
           DEBUG: 'semantic-release:*'
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
