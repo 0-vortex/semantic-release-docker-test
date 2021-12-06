@@ -87,12 +87,36 @@ jobs:
   release-ghcr:
     environment:
       name: production
-      url: https://github.com/${{ github.repository }}/releases/tag/${{ steps.semantic-release.outputs.release-tag }}
+      url: https://github.com/${{ github.repository }}/releases/tag/${{ env.RELEASE_TAG }}
     name: Semantic release
     needs:
       - docker
     runs-on: ubuntu-latest
     if: false == true
     steps:
-      - run: |
-          echo "dstn";
+      - name: "☁️ checkout repository"
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: "📂 download docker artifacts"
+        uses: actions/download-artifact@v2
+        with:
+          name: docker
+          path: /tmp
+
+      - name: "📦 load tag"
+        run: |
+          docker load --input /tmp/docker.tar
+          docker image ls -a
+
+      - name: "🚀 release"
+        id: semantic-release
+        uses: docker://ghcr.io/open-sauced/semantic-release-conventional-config:3.0.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: "♻️ cleanup"
+        run: |
+          echo ${{ env.RELEASE_TAG }}
+          echo ${{ env.RELEASE_VERSION }}
