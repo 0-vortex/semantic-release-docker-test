@@ -5,6 +5,19 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.7.1](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.7.0...v1.7.1) (2021-12-06)
+
+
+### 🎨 Styles
+
+* test ([9f76f5c](https://github.com/0-vortex/semantic-release-docker-test/commit/9f76f5cbfd2f1b3e83c68746b408c3ee67fceb76))
+
+
+### ✅ Tests
+
+* test action again ([cbeabc6](https://github.com/0-vortex/semantic-release-docker-test/commit/cbeabc668667afffacd01b10cd8f9a162674dfb7))
+* try bom ([474134a](https://github.com/0-vortex/semantic-release-docker-test/commit/474134a19fe2a44f6a3f0fb3a32ecc17c560e787))
+
 ## [1.7.0](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.6.2...v1.7.0) (2021-12-06)
 
 

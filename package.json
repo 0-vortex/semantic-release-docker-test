@@ -1,7 +1,7 @@
 {
   "name": "semantic-release-docker-test",
   "description": "",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "private": true,
   "license": "MIT",
   "files": [
