@@ -77,7 +77,7 @@ jobs:
       - name: "🚀 release"
         id: semantic-release
 #        uses: docker://ghcr.io/open-sauced/semantic-release-conventional-config:3.0.0
-        uses: open-sauced/semantic-release-conventional-config@v3
+        uses: open-sauced/semantic-release-conventional-config@v3.0.1
         env:
           DEBUG: 'semantic-release:*'
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
