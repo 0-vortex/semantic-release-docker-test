@@ -78,9 +78,8 @@ jobs:
         id: semantic-release
 #        uses: docker://ghcr.io/open-sauced/semantic-release-conventional-config:3.0.1
         uses: open-sauced/semantic-release-conventional-config@v3.0.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+#        env:
+#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: "♻️ cleanup"
         run: |
 #          echo ${{ env.RELEASE_TAG }}
