@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.7.3](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.7.2...v1.7.3) (2021-12-06)
+
+
+### ✅ Tests
+
+* test full action build ([9466358](https://github.com/0-vortex/semantic-release-docker-test/commit/9466358189dc551daa8729b4647e28d6186bbe9d))
+
 ### [1.7.2](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.7.1...v1.7.2) (2021-12-06)
 
 
