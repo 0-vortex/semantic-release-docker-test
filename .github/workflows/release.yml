@@ -83,3 +83,16 @@ jobs:
         run: |
           echo ${{ steps.semantic-release.outputs.release-tag }}
           echo ${{ steps.semantic-release.outputs.release-version }}
+
+  release-ghcr:
+    environment:
+      name: production
+      url: https://github.com/${{ github.repository }}/releases/tag/${{ steps.semantic-release.outputs.release-tag }}
+    name: Semantic release
+    needs:
+      - docker
+    runs-on: ubuntu-latest
+    if: false == true
+    steps:
+      - run: |
+          echo "dstn";
