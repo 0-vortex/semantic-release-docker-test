@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.7.6](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.7.5...v1.7.6) (2021-12-06)
+
+
+### ✅ Tests
+
+* use double jobs ([82acdc4](https://github.com/0-vortex/semantic-release-docker-test/commit/82acdc4bfc6f12c8b6d4d9c31b5b8eccefbe45a8))
+
 ### [1.7.5](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.7.4...v1.7.5) (2021-12-06)
 
 
