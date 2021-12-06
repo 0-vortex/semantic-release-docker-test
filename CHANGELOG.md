@@ -5,6 +5,26 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.7.0](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.6.2...v1.7.0) (2021-12-06)
+
+
+### 🐛 Bug Fixes
+
+* it is not broken ([2163070](https://github.com/0-vortex/semantic-release-docker-test/commit/21630709ed0c8073428bd7517d400a1f06a10f30))
+* test it right ([2586f86](https://github.com/0-vortex/semantic-release-docker-test/commit/2586f86eca8c41cb4a089984f49186b051e20dc0))
+* test rerelease ([6997e78](https://github.com/0-vortex/semantic-release-docker-test/commit/6997e78262ab6689e97447a82033d2fa8e58ffe7))
+
+
+### 🍕 Features
+
+* test it again ([badcdcb](https://github.com/0-vortex/semantic-release-docker-test/commit/badcdcb8968731ed5c024393c9ee056e9f8a42c4))
+
+
+### ✅ Tests
+
+* one more time ([5550a53](https://github.com/0-vortex/semantic-release-docker-test/commit/5550a53668bd7e678756535bbdf61edf5d171cee))
+* use v3 tagged action and emojis ([a27a4af](https://github.com/0-vortex/semantic-release-docker-test/commit/a27a4afae126c6c15c0f8fe0aed36e982e84a6d1))
+
 ### [1.6.2](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.6.1...v1.6.2) (2021-12-04)
 
 
