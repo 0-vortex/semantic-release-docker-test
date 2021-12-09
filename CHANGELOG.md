@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.8.0](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.7.6...v1.8.0) (2021-12-09)
+
+
+### 📝 Documentation
+
+* added simple readme and minor release branch update ([d34d53c](https://github.com/0-vortex/semantic-release-docker-test/commit/d34d53c138f643c2713e489464d232e07b4c520c))
+
 ### [1.7.6](https://github.com/0-vortex/semantic-release-docker-test/compare/v1.7.5...v1.7.6) (2021-12-06)
 
 
